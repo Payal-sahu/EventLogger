@@ -1,0 +1,4 @@
+{"id" : "payal" , "state" : "FINISHED" , "type" : "APPLICATION_LOG" , "host" : "12345" ,"timestamp" : "14913774952127"}
+{"id" : "payal" , "state" : "STARTED" , "type" : "APPLICATION_LOG" , "host" : "12345" ,"timestamp" : "14913774952122"}
+{"id" : "sahu" , "state" : "STARTED" , "type" : "APPLICATION_LOG" , "host" : "12345" ,"timestamp" : "14913774952122"}
+{"id" : "sahu" , "state" : "FINISHED" , "type" : "APPLICATION_LOG" , "host" : "12345" ,"timestamp" : "14913774952123"}
